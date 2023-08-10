@@ -1,5 +1,5 @@
 [core]
-    remote = ved_rem11
+    remote = remote_store
 ['remote "remote_storage"']
     url = .
 ['remote "ved_rem3"']
@@ -13,4 +13,6 @@
 ['remote "ved_rem10"']
     url = ..
 ['remote "ved_rem11"']
+    url = ..
+['remote "remote_store"']
     url = ..
